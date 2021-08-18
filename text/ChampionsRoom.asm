@@ -1,9 +1,9 @@
 _GaryChampionIntroText::
-	text "<RIVAL>: Hey!"
+	text "<PLAYER>: ...."
 
-	para "I was looking"
-	line "forward to seeing"
-	cont "you, <PLAYER>!"
+	para "............."
+	line "................."
+	cont "......."
 
 	para "My rival should"
 	line "be strong to keep"
